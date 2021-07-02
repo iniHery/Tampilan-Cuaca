@@ -34,8 +34,8 @@ body {
   justify-content: center;
   padding: 6px;
   font-size: 14px;
-  padding-left: 16px;
-  padding-right: 16px;
+  padding-left: 22px;
+  padding-right: 22px;
   color: aliceblue;
 }
 
@@ -64,4 +64,11 @@ body {
   font-size: 14px;
   padding-left: 4px;
   color: aliceblue;
+}
+
+.icon-footer {
+  justify-content: space-between;
+  width: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
 }
